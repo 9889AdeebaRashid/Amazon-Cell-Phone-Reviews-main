@@ -1,6 +1,16 @@
 # Amazon-Cell-Phone-Reviews
 A Data Analytics Project that uses Tableau for Visualizations.
 
+Team Member - A project submitted by
+
+AKSHAT SINGH (20BCG10017 - BHOPAL)
+
+INSHA FATIMA (20BEE0372 - VELLORE)
+
+ADEEBA RASHID (20BAI10107 - BHOPAL)
+
+DESHMUKH NIRANJAN KHUSHAVANTRAO (20BCT0220 - VELLORE)
+
 Another section of the project is at this Github Repository: https://github.com/CallmeAk/Amazon-mobile-phone-Reviews
   
 Summary- The Amazon Mobile Phone Reviews project analyzes customer reviews of mobile phones on Amazon to extract valuable insights. It collects and preprocesses a dataset of reviews, applies data analytics techniques like sentiment analysis and text mining to understand customer feedback and preferences. The project also utilizes data visualization to present the findings effectively. The output includes a comprehensive report with analysis results, customer sentiments, prevalent themes, and recommendations. This information helps businesses make data-driven decisions to enhance their product offerings and improve customer satisfaction in the competitive mobile phone market.
