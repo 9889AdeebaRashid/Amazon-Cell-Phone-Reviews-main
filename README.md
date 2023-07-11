@@ -1,5 +1,5 @@
 # Amazon-Cell-Phone-Reviews
-A Data Analytics Project that uses Tableau for Visualizations.
+A web app that includes Data Analytics. Tableau is used for Visualizations.
 
 Team Member - A project submitted by
 
