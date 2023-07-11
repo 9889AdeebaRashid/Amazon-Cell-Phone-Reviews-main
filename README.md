@@ -1,6 +1,10 @@
 # Amazon-Cell-Phone-Reviews
 A web app that includes Data Analytics. Tableau is used for Visualizations.
 
+HOW TO RUN ON VS CODE?? 
+
+https://drive.google.com/file/d/1cwXDr9jvZlIkStsqDqJ_5eyd2LPRG3FM/view?usp=drivesdk
+
 Team Member - A project submitted by
 
 AKSHAT SINGH (20BCG10017 - BHOPAL)
